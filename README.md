@@ -2,4 +2,4 @@
 Modelling various mathematical phenomena via the Manim library in Python; giving a brief introduction.  
 
 ## Phenomena Modelled So far:
-- The Gaussian Integral
+- The Gaussian Integral (GuassianIntegral.mp4)
